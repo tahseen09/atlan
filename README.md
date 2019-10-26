@@ -24,3 +24,7 @@
 * SQL injection protection
 
 ###### These security features are already provided by Django, so that makes a website safe from the most common vulnerabilities.
+
+## Endpoints
+###### start, pause, stop
+###### All these three endpoints take a parameter as name, i.e name of the task.
